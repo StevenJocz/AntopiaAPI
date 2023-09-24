@@ -1,4 +1,5 @@
 using Antopia.API.Application;
+using Antopia.API.Chat;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddSignalR();
 
 var proveedor = builder.Services.BuildServiceProvider();
 var configuration = proveedor.GetRequiredService<IConfiguration>();
@@ -38,6 +40,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 app.UseStaticFiles();
 app.MapControllers();
+app.MapHub<CentroChat>("Chat/CentroChat");
 
 app.Run();
 
