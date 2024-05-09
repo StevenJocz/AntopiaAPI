@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Antopia.API", "API\Antopia.API.csproj", "{0D779A65-702E-420B-AF7D-ADB27C44BA78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{F2DF42A8-EE62-451A-A9F3-4C505C383E9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{8F0830C2-1E52-4794-B059-DB90E15F6B55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{18DA5826-AFF8-4EBE-A81E-C00D68AE0B33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{103C28BA-3B97-4CEE-91A9-494FECE2BE30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Antopia.Domain", "Domain\Antopia.Domain.csproj", "{C671A62E-53CD-4B0B-9DEB-84E7BD789E98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Antopia.Infrastructure", "Infrastructure\Antopia.Infrastructure.csproj", "{4D430ED9-C94F-4454-BCAC-421D0DD1E3AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{335762D7-9E3A-4CD4-B59C-1F722510E04F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Antopia.Persistence", "Persistence\Antopia.Persistence.csproj", "{3D1BB51B-1A75-48AA-9E63-D0B53FB7D723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D779A65-702E-420B-AF7D-ADB27C44BA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D779A65-702E-420B-AF7D-ADB27C44BA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D779A65-702E-420B-AF7D-ADB27C44BA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D779A65-702E-420B-AF7D-ADB27C44BA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C671A62E-53CD-4B0B-9DEB-84E7BD789E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C671A62E-53CD-4B0B-9DEB-84E7BD789E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C671A62E-53CD-4B0B-9DEB-84E7BD789E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C671A62E-53CD-4B0B-9DEB-84E7BD789E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D430ED9-C94F-4454-BCAC-421D0DD1E3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D430ED9-C94F-4454-BCAC-421D0DD1E3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D430ED9-C94F-4454-BCAC-421D0DD1E3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D430ED9-C94F-4454-BCAC-421D0DD1E3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1BB51B-1A75-48AA-9E63-D0B53FB7D723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1BB51B-1A75-48AA-9E63-D0B53FB7D723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1BB51B-1A75-48AA-9E63-D0B53FB7D723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1BB51B-1A75-48AA-9E63-D0B53FB7D723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0D779A65-702E-420B-AF7D-ADB27C44BA78} = {F2DF42A8-EE62-451A-A9F3-4C505C383E9F}
+		{F2DF42A8-EE62-451A-A9F3-4C505C383E9F} = {335762D7-9E3A-4CD4-B59C-1F722510E04F}
+		{8F0830C2-1E52-4794-B059-DB90E15F6B55} = {335762D7-9E3A-4CD4-B59C-1F722510E04F}
+		{18DA5826-AFF8-4EBE-A81E-C00D68AE0B33} = {335762D7-9E3A-4CD4-B59C-1F722510E04F}
+		{103C28BA-3B97-4CEE-91A9-494FECE2BE30} = {335762D7-9E3A-4CD4-B59C-1F722510E04F}
+		{C671A62E-53CD-4B0B-9DEB-84E7BD789E98} = {8F0830C2-1E52-4794-B059-DB90E15F6B55}
+		{4D430ED9-C94F-4454-BCAC-421D0DD1E3AB} = {18DA5826-AFF8-4EBE-A81E-C00D68AE0B33}
+		{3D1BB51B-1A75-48AA-9E63-D0B53FB7D723} = {103C28BA-3B97-4CEE-91A9-494FECE2BE30}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70059703-E99F-46D4-8D3F-7A19E8798EE8}
+	EndGlobalSection
+EndGlobal

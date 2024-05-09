@@ -1,0 +1,12 @@
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\bin\Debug\net7.0\Antopia.Domain.deps.json
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\bin\Debug\net7.0\Antopia.Domain.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\bin\Debug\net7.0\Antopia.Domain.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\Antopia.Domain.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\Antopia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\Antopia.Domain.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\Antopia.Domain.AssemblyInfo.cs
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\Antopia.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\Antopia.Domain.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\refint\Antopia.Domain.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\Antopia.Domain.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Domain\obj\Debug\net7.0\ref\Antopia.Domain.dll

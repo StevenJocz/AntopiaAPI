@@ -1,0 +1,17 @@
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\bin\Debug\net7.0\Antopia.Persistence.deps.json
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\bin\Debug\net7.0\Antopia.Persistence.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\bin\Debug\net7.0\Antopia.Persistence.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\bin\Debug\net7.0\Antopia.Domain.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\bin\Debug\net7.0\Antopia.Infrastructure.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\bin\Debug\net7.0\Antopia.Infrastructure.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\bin\Debug\net7.0\Antopia.Domain.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.AssemblyInfo.cs
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.csproj.CopyComplete
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\refint\Antopia.Persistence.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\Antopia.Persistence.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Persistence\obj\Debug\net7.0\ref\Antopia.Persistence.dll

@@ -1,0 +1,15 @@
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\bin\Release\net7.0\Antopia.Infrastructure.deps.json
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\bin\Release\net7.0\Antopia.Infrastructure.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\bin\Release\net7.0\Antopia.Infrastructure.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\bin\Release\net7.0\Antopia.Domain.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\bin\Release\net7.0\Antopia.Domain.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.AssemblyInfo.cs
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.csproj.CopyComplete
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\refint\Antopia.Infrastructure.dll
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\Antopia.Infrastructure.pdb
+D:\Proyectos Desarrollo\Hormigas\APIAntopia\Services\Infrastructure\obj\Release\net7.0\ref\Antopia.Infrastructure.dll

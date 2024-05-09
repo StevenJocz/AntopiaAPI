@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImageFondo\\0d798773-be4d-49cd-976a-1eb6e43831c7.jpg",
+      "PackagePath": "staticwebassets\\ImageFondo\\0d798773-be4d-49cd-976a-1eb6e43831c7.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImageFondo\\9731e716-43e9-4996-b510-f26cfd5174d9.jpg",
+      "PackagePath": "staticwebassets\\ImageFondo\\9731e716-43e9-4996-b510-f26cfd5174d9.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagenesEcomerce\\imagen1.jpg",
+      "PackagePath": "staticwebassets\\ImagenesEcomerce\\imagen1.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagenesEcomerce\\imagen2.jpg",
+      "PackagePath": "staticwebassets\\ImagenesEcomerce\\imagen2.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagenesEcomerce\\imagen3.jpg",
+      "PackagePath": "staticwebassets\\ImagenesEcomerce\\imagen3.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagenesEcomerce\\imagen4.jpg",
+      "PackagePath": "staticwebassets\\ImagenesEcomerce\\imagen4.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagenesEcomerce\\imagen5.jpg",
+      "PackagePath": "staticwebassets\\ImagenesEcomerce\\imagen5.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagenesEcomerce\\imagen6.jpg",
+      "PackagePath": "staticwebassets\\ImagenesEcomerce\\imagen6.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagesColoniaPublication\\1c43749c-77c3-4256-9498-5e124e67620a.jpg",
+      "PackagePath": "staticwebassets\\ImagesColoniaPublication\\1c43749c-77c3-4256-9498-5e124e67620a.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagesComments\\2d6ee6d7-c617-4cd7-9378-f264843a629e.jpg",
+      "PackagePath": "staticwebassets\\ImagesComments\\2d6ee6d7-c617-4cd7-9378-f264843a629e.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagesDiary\\03f39c2d-ecf4-4a7a-b933-10958faa9f9d.jpg",
+      "PackagePath": "staticwebassets\\ImagesDiary\\03f39c2d-ecf4-4a7a-b933-10958faa9f9d.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagesPerfil\\9fce5c36-2eaf-4ddd-aae9-98ce6b8b7bc6.jpg",
+      "PackagePath": "staticwebassets\\ImagesPerfil\\9fce5c36-2eaf-4ddd-aae9-98ce6b8b7bc6.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagesPhotoGrupo\\0d11486b-7ee2-4a3b-88f2-a72c612f7c73.jpg",
+      "PackagePath": "staticwebassets\\ImagesPhotoGrupo\\0d11486b-7ee2-4a3b-88f2-a72c612f7c73.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagesPublication\\0b04af12-681b-45a1-8ce0-9023ee7dd7b4.jpg",
+      "PackagePath": "staticwebassets\\ImagesPublication\\0b04af12-681b-45a1-8ce0-9023ee7dd7b4.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\ImagesSlider\\imagen1.jpg",
+      "PackagePath": "staticwebassets\\ImagesSlider\\imagen1.jpg"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\fullchain.pem",
+      "PackagePath": "staticwebassets\\fullchain.pem"
+    },
+    {
+      "Id": "D:\\Proyectos Desarrollo\\Hormigas\\APIAntopia\\Services\\API\\wwwroot\\privkey.pem",
+      "PackagePath": "staticwebassets\\privkey.pem"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Antopia.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Antopia.API.props",
+      "PackagePath": "build\\Antopia.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Antopia.API.props",
+      "PackagePath": "buildMultiTargeting\\Antopia.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Antopia.API.props",
+      "PackagePath": "buildTransitive\\Antopia.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
